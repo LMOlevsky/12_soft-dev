@@ -1,0 +1,18 @@
+h1 {
+    text-shadow: 4px 4px #000000;
+    color: red;
+}
+
+p:hover {
+    background-color: green;
+    font: italic bold 12px/30px Georgia, serif;
+    border: 10px solid orange;
+}
+
+body {
+    background-image: url("wavy_tunnel.gif");
+    height: 100%;
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
